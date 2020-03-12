@@ -26,7 +26,7 @@
 						</svg>
 						&nbsp;
 						<!-- Change Milligram to your full name -->
-						<h1 class="title">Milligram</h1>
+						<h1 class="title">Erik Benjamin</h1>
 					</a>
 					<ul class="navigation-list float-right">
 						<li class="navigation-item">
